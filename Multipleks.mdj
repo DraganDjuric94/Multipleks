@@ -1,0 +1,27 @@
+{
+	"_type": "Project",
+	"_id": "AAAAAAFF+h6SjaM2Hec=",
+	"name": "Multipleks",
+	"ownedElements": [
+		{
+			"_type": "UMLPackage",
+			"_id": "AAAAAAFZWxw/DdBO0QY=",
+			"_parent": {
+				"$ref": "AAAAAAFF+h6SjaM2Hec="
+			},
+			"name": "resources",
+			"ownedElements": [
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAFZWxyO39BShyk=",
+					"_parent": {
+						"$ref": "AAAAAAFZWxw/DdBO0QY="
+					},
+					"name": "useCase",
+					"visibility": "public"
+				}
+			],
+			"visibility": "public"
+		}
+	]
+}
